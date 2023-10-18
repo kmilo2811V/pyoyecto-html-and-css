@@ -1,0 +1,98 @@
+h1{
+    color: green;
+}
+h2{
+    color: darkblue;
+}
+#cabecera3{
+    color: rgb(102, 30, 143);
+}
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+.texto{
+    color: black;
+}
+#titulo{
+    color: darkslateblue;
+    text-shadow: 3px 5px 5px blue;
+}
+
+/*esto es un comentario*/
+.azul{
+    /* color: white; */
+    border-style: solid;
+    border-color: rgb(168, 27, 27);
+    border-radius: 100px;
+    border-width: 0.2cm;
+    padding: 10px 10px 10px 10px;
+}/* le cree el borde a las clases azul y le cambie el color a la letra. minuto 45 */ 
+
+#fondo {
+    background-color: rgba(196, 41, 41, 0.3);
+    opacity: 0.3;
+}
+
+
+.parrafo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: justify;
+    
+}
+.texto{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify; 
+    text-shadow: 3px 5px 5px blue;
+}
+.container {
+    background-color: cadetblue;
+    padding: 10px;     
+}
+/* estilos de mi seccion1 */
+.seccion1 {
+    background-color: blue;
+    width: 30%;
+    padding-top: 20px;
+}
+.seccion1 img{
+    width: 100%;
+}
+/* ajustar texto al centro */
+.container-contacto h3 {
+    text-align: center;
+   color: white;
+}
+
+/* estilos de mi seccion 2 */
+.seccion2 {
+    background-color: blue;
+    width: 70%;
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
